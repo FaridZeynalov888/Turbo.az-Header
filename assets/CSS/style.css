@@ -1,0 +1,73 @@
+.header-top{
+    width: 800;
+    height: 350 px;
+    border: 1px solid #cccdcd;
+    border-left: 0; border-right: 0; border-bottom: 0;
+    background-color: #f6f7fa;
+    display: flex;
+    text-decoration: none;
+    font-size: 17px;
+}
+.first ul li{
+    display: inline;
+    text-decoration: none;
+    margin-left: 37px;
+    /* margin-right: 25px; */
+}
+.first ul li a{
+    text-decoration: none;
+    color: #8da0c8;
+}
+.second ul li{
+    display: inline;
+    text-decoration: dotted;
+}
+.second ul li a{
+    text-decoration: none;
+    color: #212c3a;
+}
+.second{margin-left: 250px;margin-right: 200px;margin-left: 250px;
+    margin-right: 90px;}
+.third ul li{
+    display: inline;
+    margin-right: 25px;
+}
+.third ul li a{
+    text-decoration: none;
+    color: #8da0c8;
+}
+.header-bottom{
+    width: 800;
+    height: 350 px;
+    border: 1px solid;
+    border-left: 0; border-right: 0; border-top: 0;
+    background-color: #ca1016;
+    display: flex;
+    text-decoration: none;
+    font-size: 20px;
+}
+.menu ul li{
+    display: inline;
+    margin-left: 35px;
+    text-decoration: none;
+    list-style-type: none   
+}
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+}
+.new ul li{
+    width: 100px;
+    height: 100px;
+    /* border: 1px solid; */
+    border-radius: 7%;
+    background-color: #7ed321;
+    color: white;
+    display: inline;
+    text-decoration: none;
+    margin-left: 420px;
+}
+.new ul li a{
+    text-decoration: none;
+    color: white;
+}
